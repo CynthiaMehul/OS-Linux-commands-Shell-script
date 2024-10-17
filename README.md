@@ -2,8 +2,6 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-# DEVELOPED BY: Cynthia Mehul J
-# REGISTER NO: 212223240020
 
 # AIM:
 To practice Linux Commands and Shell Scripting
